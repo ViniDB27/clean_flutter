@@ -1,3 +1,4 @@
 enum DomainErrors {
   unexpected,
+  invalidCredentials
 }
