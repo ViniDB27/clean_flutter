@@ -1,3 +1,4 @@
 enum HttpErrors {
   badRequest,
+  notFound,
 }
